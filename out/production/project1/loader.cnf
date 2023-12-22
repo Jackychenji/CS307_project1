@@ -1,0 +1,4 @@
+host = localhost
+database = Shipment_records
+user = checker
+password = 123456
